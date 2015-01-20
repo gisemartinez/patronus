@@ -3,6 +3,7 @@ package abm
 class Estado {
 
 	String nombreEstado
+
 	
 	static constraints = {
 	}
